@@ -1,5 +1,5 @@
 {
-    "name": "league/flysystem-cached-adapter",
+    "name": "technosun/flysystem-cached-adapter",
     "description": "An adapter decorator to enable meta-data caching.",
     "autoload": {
         "psr-4": {
