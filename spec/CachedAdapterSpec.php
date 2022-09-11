@@ -1,10 +1,10 @@
 <?php
 
-namespace spec\League\Flysystem\Cached;
+namespace spec\TSLeague\Flysystem\Cached;
 
-use League\Flysystem\AdapterInterface;
-use League\Flysystem\Cached\CacheInterface;
-use League\Flysystem\Config;
+use TSLeague\Flysystem\AdapterInterface;
+use TSLeague\Flysystem\Cached\CacheInterface;
+use TSLeague\Flysystem\Config;
 use PhpSpec\ObjectBehavior;
 
 class CachedAdapterSpec extends ObjectBehavior
@@ -29,8 +29,8 @@ class CachedAdapterSpec extends ObjectBehavior
 
     public function it_is_initializable()
     {
-        $this->shouldHaveType('League\Flysystem\Cached\CachedAdapter');
-        $this->shouldHaveType('League\Flysystem\AdapterInterface');
+        $this->shouldHaveType('TSLeague\Flysystem\Cached\CachedAdapter');
+        $this->shouldHaveType('TSLeague\Flysystem\AdapterInterface');
     }
 
     public function it_should_forward_read_streams()

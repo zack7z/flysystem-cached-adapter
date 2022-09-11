@@ -1,8 +1,8 @@
 <?php
 
-namespace League\Flysystem\Cached;
+namespace TSLeague\Flysystem\Cached;
 
-use League\Flysystem\ReadInterface;
+use TSLeague\Flysystem\ReadInterface;
 
 interface CacheInterface extends ReadInterface
 {

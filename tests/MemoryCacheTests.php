@@ -1,7 +1,7 @@
 <?php
 
-use League\Flysystem\Cached\Storage\Memory;
-use League\Flysystem\Util;
+use TSLeague\Flysystem\Cached\Storage\Memory;
+use TSLeague\Flysystem\Util;
 use PHPUnit\Framework\TestCase;
 
 class MemoryCacheTests extends TestCase

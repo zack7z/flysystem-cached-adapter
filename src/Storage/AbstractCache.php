@@ -1,9 +1,9 @@
 <?php
 
-namespace League\Flysystem\Cached\Storage;
+namespace TSLeague\Flysystem\Cached\Storage;
 
-use League\Flysystem\Cached\CacheInterface;
-use League\Flysystem\Util;
+use TSLeague\Flysystem\Cached\CacheInterface;
+use TSLeague\Flysystem\Util;
 
 abstract class AbstractCache implements CacheInterface
 {

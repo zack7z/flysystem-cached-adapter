@@ -1,9 +1,9 @@
 <?php
 
-namespace League\Flysystem\Cached;
+namespace TSLeague\Flysystem\Cached;
 
-use League\Flysystem\AdapterInterface;
-use League\Flysystem\Config;
+use TSLeague\Flysystem\AdapterInterface;
+use TSLeague\Flysystem\Config;
 
 class CachedAdapter implements AdapterInterface
 {

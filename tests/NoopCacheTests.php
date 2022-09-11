@@ -1,6 +1,6 @@
 <?php
 
-use League\Flysystem\Cached\Storage\Noop;
+use TSLeague\Flysystem\Cached\Storage\Noop;
 use PHPUnit\Framework\TestCase;
 
 class NoopCacheTests extends TestCase

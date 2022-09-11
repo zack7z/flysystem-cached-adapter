@@ -1,6 +1,6 @@
 <?php
 
-use League\Flysystem\Cached\Storage\Psr6Cache;
+use TSLeague\Flysystem\Cached\Storage\Psr6Cache;
 use PHPUnit\Framework\TestCase;
 
 class Psr6CacheTests extends TestCase

@@ -3,7 +3,7 @@
     "description": "An adapter decorator to enable meta-data caching.",
     "autoload": {
         "psr-4": {
-            "League\\Flysystem\\Cached\\": "src/"
+            "TSLeague\\Flysystem\\Cached\\": "src/"
         }
     },
     "require": {

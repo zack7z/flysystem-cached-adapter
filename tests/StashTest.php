@@ -1,6 +1,6 @@
 <?php
 
-use League\Flysystem\Cached\Storage\Stash;
+use TSLeague\Flysystem\Cached\Storage\Stash;
 use PHPUnit\Framework\TestCase;
 
 class StashTests extends TestCase

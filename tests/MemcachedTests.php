@@ -1,6 +1,6 @@
 <?php
 
-use League\Flysystem\Cached\Storage\Memcached;
+use TSLeague\Flysystem\Cached\Storage\Memcached;
 use PHPUnit\Framework\TestCase;
 
 class MemcachedTests extends TestCase

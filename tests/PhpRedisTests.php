@@ -1,6 +1,6 @@
 <?php
 
-use League\Flysystem\Cached\Storage\PhpRedis;
+use TSLeague\Flysystem\Cached\Storage\PhpRedis;
 use PHPUnit\Framework\TestCase;
 
 class PhpRedisTests extends TestCase

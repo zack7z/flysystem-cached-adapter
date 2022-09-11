@@ -1,6 +1,6 @@
 <?php
 
-namespace League\Flysystem\Cached\Storage;
+namespace TSLeague\Flysystem\Cached\Storage;
 
 use Stash\Pool;
 
